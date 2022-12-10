@@ -1,6 +1,6 @@
 /*
 
-  Polar Pen Plotter V1.0
+  Polar Pen Plotter V4.0
   2022.12.10
    
    Samyam Lamichhane, Tim Kim
