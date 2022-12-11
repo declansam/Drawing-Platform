@@ -95,7 +95,7 @@ void loop() {
       homing = true;
       machineStart = false;
       firstPoint = true;
-      drawing = false;ic
+      drawing = false;
     }
   }
 
